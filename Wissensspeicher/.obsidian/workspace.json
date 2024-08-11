@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "a2ccd1d0b6c47f8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bae5a9d626ffb5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae9b2ce75a50f365",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ausbildung Fachinformatiker/Mardat GmbH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9678eb443ed0af85",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
+            "id": "fc5f7c5f6174acd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ausbildung Fachinformatiker/Index (MOC).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6ef49436e2c7a3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ausbildung Fachinformatiker/SRG Systemhaus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a4154625e1011ca2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad058449120dc6e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c11e50a208cf8838",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "165d194e83301823",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "91463c4ca62ea1da",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "6a49c8e18fd49804",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d054eff4581f1308",
+    "type": "split",
+    "children": [
+      {
+        "id": "811ceeab31d1595e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f501cd32e221829a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ausbildung Fachinformatiker/Mardat GmbH.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24c5ecc49e73888f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ausbildung Fachinformatiker/Mardat GmbH.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9aec49081a80d6a1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f2c6247aecf93f0b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ausbildung Fachinformatiker/Mardat GmbH.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ae9b2ce75a50f365",
+  "lastOpenFiles": [
+    "Ausbildung Fachinformatiker/Index (MOC).md",
+    "Ausbildung Fachinformatiker/Nexperto GmbH (Kempten).md",
+    "Ausbildung Fachinformatiker/doubleSlash Net-Business GmbH (Sehr Interessant).md",
+    "Ausbildung Fachinformatiker/SRG Systemhaus.md",
+    "Ausbildung Fachinformatiker/LEUKA GmbH.md",
+    "Ausbildung Fachinformatiker/Mardat GmbH.md",
+    "Ausbildung Fachinformatiker/Landratsamt RV.md",
+    "Ausbildung Fachinformatiker/TRIVIT AG (CAD Lösungen).md",
+    "Ausbildung Fachinformatiker/Argentur für Arbeit.md",
+    "Ausbildung Fachinformatiker/Soloplan GmbH Planung und Logistik (Kempten).md",
+    "Programieren/Index (MOC).md",
+    "Vault.md",
+    "Untitled.md",
+    "Tags",
+    "Ausbildung Fachinformatiker",
+    "Programieren/Theorie des Programierens.md",
+    "Programieren/Die Denkweise.md",
+    "Programieren/Die Programmiersprache.md",
+    "Programieren",
+    "Programieren (MOC).md",
+    "Index",
+    "Welcome.md"
+  ]
+}
