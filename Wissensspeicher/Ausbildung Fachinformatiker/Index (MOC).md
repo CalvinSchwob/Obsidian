@@ -28,11 +28,19 @@
 
 
 ---
-# Praktikas (Ticked = Angefragt)#
+# Praktikas (Hacken = Angefragt)#
 - [ ] [[Argentur für Arbeit]]
 - [ ] [[TRIVIT AG (CAD Lösungen)]]
 - [ ] [[Landratsamt RV]]
 - [ ] [[Mardat GmbH]]
 - [ ] [[LEUKA GmbH]]
 - [ ] [[doubleSlash Net-Business GmbH (Sehr Interessant)]]
+
+## Angefragt ##
+- [[doubleSlash Net-Business GmbH (Sehr Interessant)]]
+- [[Soloplan GmbH Planung und Logistik (Kempten)]]
+- [[ZF Freidrichshafen]]
+- [[Liebherr Lindenberg]]
+- [[Ravensburger]]
+- 
 ---
